@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0057_001.yaml, hash: 'sha256:ba8ae22a2e4ddf978eae4ff02ea87baeebf20f295300af62ce97b398bb129966'}
+  - {seq: 1, filename: KR2p0057_001.yaml, hash: 'sha256:bb6ac7fadb6d8fd6590136bab6faeb4feb1edc6dc19ba2da17f542f7cc9b22a6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0057_001.markers.yaml, hash: 'sha256:6f3d550345a44bdadf689ae074ad37d84e2628a4362c86f4f549bdcb78859dc5'}
+  - {seq: 1, role: markers, filename: assets/KR2p0057_001.markers.yaml, hash: 'sha256:fed757267428edaa951d32223e827cefdd02b9c901cf00a866a288842badeddf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +31,6 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:759ca73eb3adcea98e947608de5f6e7704d2e6d71c5a40facf640b421eb56613
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4d166bf961093f6584e0fc68d7abd65e740332faa4d62b00dc238e5f006fd59c
 editions:
 - short: tls

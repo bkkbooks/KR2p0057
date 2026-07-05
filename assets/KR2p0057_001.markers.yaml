@@ -16,9 +16,7 @@ markers:
   - {type: 'tls:seg', offset: 19, content: '', id: KR2p0057_tls_001-2a.1}
   - {type: punctuation, offset: 29, content: ',', id: KR2p0057_tls_001-bkkpn3}
   - {type: 'tls:seg', offset: 29, content: '', id: KR2p0057_tls_001-2a.2}
-  - {type: substitution, offset: 31, original: 灋, replacement: 法, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0595}}
   - {type: 'tls:seg', offset: 33, content: '', id: KR2p0057_tls_001-2a.3}
-  - {type: substitution, offset: 36, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 39, content: ',', id: KR2p0057_tls_001-bkkpn4}
   - {type: punctuation, offset: 39, content: '[', id: KR2p0057_tls_001-bkkpn5}
   - {type: punctuation, offset: 39, content: ']', id: KR2p0057_tls_001-bkkpn6}
@@ -49,7 +47,6 @@ markers:
   - {type: 'tls:seg', offset: 89, content: '', id: KR2p0057_tls_001-3a.8}
   - {type: punctuation, offset: 92, content: ',', id: KR2p0057_tls_001-bkkpn16}
   - {type: 'tls:seg', offset: 92, content: '', id: KR2p0057_tls_001-3a.9}
-  - {type: substitution, offset: 92, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 96, content: '', id: KR2p0057_tls_001-3a.10}
   - {type: punctuation, offset: 98, content: '[', id: KR2p0057_tls_001-bkkpn17}
   - {type: punctuation, offset: 98, content: ']', id: KR2p0057_tls_001-bkkpn18}
@@ -89,4 +86,4 @@ markers:
   - {type: 'tls:seg', offset: 158, content: '', id: KR2p0057_tls_001-4a.12}
   - {type: xml-element, offset: 162, content: '', id: KR2p0057_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.GUISHENZHIMING 5.28.4 (STRIPS 3-4) MACHENGYUAN 5: 316, 318 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:6f3d550345a44bdadf689ae074ad37d84e2628a4362c86f4f549bdcb78859dc5
+hash: sha256:fed757267428edaa951d32223e827cefdd02b9c901cf00a866a288842badeddf
