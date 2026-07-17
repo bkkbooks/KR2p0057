@@ -28,7 +28,7 @@ markers:
   - {type: punctuation, offset: 47, content: ), id: KR2p0057_tls_001-bkkpn8}
   - {type: punctuation, offset: 47, content: ',', id: KR2p0057_tls_001-bkkpn9}
   - {type: 'tls:seg', offset: 47, content: '', id: KR2p0057_tls_001-2a.6}
-  - {type: 'voice:problem', offset: 47, length: 0, id: KR2p0057_bkk_001-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 47 with no matching '('}
+  - {type: 'voice:problem', offset: 47, length: 0, id: KR2p0057_bkk_001-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 47 with no matching '('}
   - {type: 'tls:seg', offset: 51, content: '', id: KR2p0057_tls_001-2a.7}
   - {type: punctuation, offset: 56, content: ',', id: KR2p0057_tls_001-bkkpn10}
   - {type: 'tls:seg', offset: 56, content: '', id: KR2p0057_tls_001-2a.8}
@@ -90,4 +90,4 @@ markers:
   - {type: 'tls:seg', offset: 158, content: '', id: KR2p0057_tls_001-4a.12}
   - {type: xml-element, offset: 162, content: '', id: KR2p0057_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.GUISHENZHIMING 5.28.4 (STRIPS 3-4) MACHENGYUAN 5: 316, 318 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:1ac7d747f7e1394af5af4826040ff760159a776784c0d4d96729fe0147cb7111
+hash: sha256:fee973624396c760676a17ac04d11b4a1e5e97923ae33358114cbe7f720376cf
